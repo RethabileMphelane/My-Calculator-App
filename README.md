@@ -24,14 +24,4 @@ A simple, interactive calculator built using **HTML**, **CSS**, and **JavaScript
 3. Click on the buttons to input digits and choose operations.
 4. Press `=` to get the result or `AC` to clear the input.
 
-## 📂 File Structure
-
-## ✨ Preview
-
-![Calculator UI Preview](preview.png) 
-
----
-
-Feel free to contribute or improve the design and features!
-
 

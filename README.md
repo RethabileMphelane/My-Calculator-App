@@ -26,3 +26,12 @@ A simple, interactive calculator built using **HTML**, **CSS**, and **JavaScript
 
 ## 📂 File Structure
 
+## ✨ Preview
+
+![Calculator UI Preview](preview.png) 
+
+---
+
+Feel free to contribute or improve the design and features!
+
+
